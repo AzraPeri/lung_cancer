@@ -8,7 +8,7 @@ Bu depo, akciğer kanseri anketi sonuçlarını içeren bir veri setini içermek
 
 Kaggle Projesi Linki
 
-Kaggle projesine buradan ( https://www.kaggle.com/code/azrailanperi/biyomedikal/edit ) erişebilirsiniz.
+Kaggle projesine buradan (https://www.kaggle.com/code/azrailanperi/biyomedikal)) erişebilirsiniz.
 
 
 
